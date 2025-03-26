@@ -20,7 +20,7 @@ Este é um sistema de gerenciamento de locação de veículos desenvolvido com A
 
 1. Clone o repositório
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/helxysa/rentals-car.git
 cd hello-world
 ```
 
